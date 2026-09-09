@@ -360,63 +360,34 @@ These are commercial, hosted or enterprise-oriented search, discovery, personali
 
 
 
-| Platform                                                                 | Primary Model             | Main Strength                        |
-
-| ------------------------------------------------------------------------ | ------------------------- | ------------------------------------ |
-
-| [Algolia](https://www.algolia.com/)                                      | Search-as-a-Service       | Developer-first instant search       |
-
-| [Constructor](https://constructor.com/)                                  | Ecommerce discovery       | Search + browse + recommendations    |
-
-| [Bloomreach Discovery](https://www.bloomreach.com/en/products/discovery) | Ecommerce discovery       | AI search + personalization          |
-
-| [Coveo](https://www.coveo.com/)                                          | Enterprise AI search      | AI relevance + enterprise search     |
-
-| [Searchspring](https://searchspring.com/)                                | Ecommerce search          | Merchandising + product discovery    |
-
-| [Luigi's Box](https://www.luigisbox.com/)                                | Ecommerce discovery       | Search + recommendations + analytics |
-
-| [Klevu](https://www.klevu.com/)                                          | Ecommerce AI search       | AI search + merchandising            |
-
-| [Elastic Search AI](https://www.elastic.co/enterprise-search)            | Search/AI                 | Search + vector + AI                 |
-
-| [Clerk.io](https://www.clerk.io/)                                        | Ecommerce personalization | Search + recommendations             |
-
-| [Prefixbox](https://www.prefixbox.com/)                                  | Ecommerce search          | Search + autocomplete                |
-
-| [Search.io](https://www.search.io/)                                      | AI search                 | Search + recommendations             |
-
-| [Yext](https://www.yext.com/)                                            | Enterprise search         | Knowledge + AI search                |
-
-| [Constructor](https://constructor.com/)                                  | Product discovery         | Search + category pages              |
-
-| [Nosto](https://www.nosto.com/)                                          | Commerce personalization  | Personalization + recommendations    |
-
-| [Dynamic Yield](https://www.dynamicyield.com/)                           | Personalization           | Recommendations + experimentation    |
-
-| [Algolia Recommend](https://www.algolia.com/products/recommend/)         | Recommendations           | AI-powered recommendations           |
-
-| [Bloomreach](https://www.bloomreach.com/)                                | Commerce experience       | Discovery + engagement               |
-
-| [Coveo](https://www.coveo.com/)                                          | Enterprise search         | Relevance + AI                       |
-
-| [Searchanise](https://searchanise.com/)                                  | Ecommerce search          | Shopify/ecommerce search             |
-
-| [Doofinder](https://www.doofinder.com/)                                  | Ecommerce search          | Search + merchandising               |
-
-| [FactFinder](https://www.fact-finder.com/)                               | Ecommerce discovery       | Search + recommendations             |
-
-| [Findify](https://findify.io/)                                           | Ecommerce search          | AI search + merchandising            |
-
-| [Sajari](https://www.sajari.com/)                                        | Search                    | Site search + discovery              |
-
-| [Unbxd](https://unbxd.com/)                                              | Ecommerce discovery       | Search + recommendations             |
-
-| [SearchNode](https://searchnode.com/)                                    | Ecommerce search          | AI search + personalization          |
-
-| [Syte](https://www.syte.ai/)                                             | Visual commerce           | Visual search + discovery            |
-
-
+| Platform | Primary Model | Main Strength | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| [Algolia](https://www.algolia.com/) | Search-as-a-Service | Developer-first instant search | Starts at $0 (Free plan) or $0.50/1,000 requests (Grow pay-as-you-go tier; Elevate from ~$500/month) | Free forever plan: 10,000 search requests/month & 50,000 records (up to 10 indices, 1 GB application size, community support) |
+| [Constructor](https://constructor.com/) | Ecommerce discovery | Search + browse + recommendations | Starts at ~$24,000/year (or ~$2,000/month starting contract; ranges ~$24,000–$150,000+/year via AWS Marketplace) | 30-day free trial / 4-week "Proof Schedule" revenue assessment (using real merchant catalog data and traffic to evaluate ROI) |
+| [Bloomreach Discovery](https://www.bloomreach.com/en/products/discovery) | Ecommerce discovery | AI search + personalization | Starts at ~$35,000/year (or ~$2,900/month mid-market search module; enterprise agreements average ~$180,000/year) | 30-day guided proof-of-concept evaluation sprint (sandbox environment limited to test catalog data and query simulation) |
+| [Coveo](https://www.coveo.com/) | Enterprise AI search | AI relevance + enterprise search | Starts at ~$30,000/year (or ~$990/month for Salesforce Pro+ package; mid-market deployments ~$10,000–$20,000/month) | 14-day free trial (no credit card required; full prototyping sandbox with standard connectors and ML relevance models) |
+| [Searchspring](https://searchspring.com/) | Ecommerce search | Merchandising + product discovery | Starts at ~$599/month (or ~$5,990/year baseline mid-market starter tier, scaling with search queries and SKU count) | 14-day guided sandbox evaluation / proof-of-concept sprint (limited to single merchant test store and sample catalog) |
+| [Luigi's Box](https://www.luigisbox.com/) | Ecommerce discovery | Search + recommendations + analytics | Starts at ~€79/month (or ~$90/month entry starter package based on product units and monthly search queries) | 30-day free trial (full access to Search, Recommender, Product Listing, and Analytics without long-term commitment) |
+| [Klevu](https://www.klevu.com/) | Ecommerce AI search | AI search + merchandising | Starts at $449/month (Recommendations tier) or $649/month (Site Search tier with 50,000 search requests) | 14-day free trial (no credit card required; full access to AI Search, Category Merchandising, and Recommendations) |
+| [Elastic Search AI](https://www.elastic.co/enterprise-search) | Search/AI | Search + vector + AI | Starts at ~$95/month (Standard tier node on AWS/GCP/Azure; ~$109/month for Gold; or serverless compute units) | 14-day free trial on Elastic Cloud (full access to Search, AI vector search, and ML features) / Free self-managed Basic license |
+| [Clerk.io](https://www.clerk.io/) | Ecommerce personalization | Search + recommendations | Starts at ~$99/month (or ~€99/month entry usage-based starter tier for small shops) | 14-day free trial (full access to AI search, merchandising, and product recommendation engines on store catalog) |
+| [Prefixbox](https://www.prefixbox.com/) | Ecommerce search | Search + autocomplete | Starts at $139/month (Shopify Essentials tier) or ~$389/month (standalone AI search tier up to 300,000 API requests) | Free forever plan: up to 500 searches/month, 1,000 products, 15 AI chats, 5 synonyms, 5 redirects; 14-day free trial on paid tiers |
+| [Search.io](https://www.search.io/) | AI search | Search + recommendations | Starts at $79/month (legacy starter plan for 100,000 queries; now integrated into Algolia NeuralSearch from $0.50/1k requests) | 14-day free trial (up to 10,000 search queries & 10,000 indexed records; or Algolia Free tier: 10,000 requests/month) |
+| [Yext](https://www.yext.com/) | Enterprise search | Knowledge + AI search | Starts at ~$499/month (or ~$5,000–$6,000/year for Yext Search / Answers modules; partner plans from ~$79/month) | 14-day to 30-day guided interactive sandbox account upon sales consultation (limited to demo knowledge graph dataset) |
+| [Constructor](https://constructor.com/) | Product discovery | Search + category pages | Starts at ~$24,000/year (or ~$2,000/month; multi-module package ~$24,000–$150,000+/year via AWS Marketplace) | 30-day trial / 4-week "Proof Schedule" live catalog assessment (measures revenue uplift on store traffic before contract) |
+| [Nosto](https://www.nosto.com/) | Commerce personalization | Personalization + recommendations | Starts at ~$500/month (standard single-module starter tier, scaling with store GMV turnover) | 14-day free trial / guided Proof of Concept (PoC) sprint on merchant store data (full access to personalization engine) |
+| [Dynamic Yield](https://www.dynamicyield.com/) | Personalization | Recommendations + experimentation | Starts at ~$35,000/year (or ~$2,900/month; enterprise annual subscription scaling based on monthly unique visitors) | 14-day to 30-day proof-of-concept / sandbox API evaluation (limited to staging environment and 100k test sessions) |
+| [Algolia Recommend](https://www.algolia.com/products/recommend/) | Recommendations | AI-powered recommendations | Starts at $0 (10k requests free) or $0.60 per 1,000 recommendation requests (Grow pay-as-you-go tier) | Free forever tier: 10,000 recommendation requests/month included (shares Algolia Build plan quotas) |
+| [Bloomreach](https://www.bloomreach.com/) | Commerce experience | Discovery + engagement | Starts at ~$35,000/year (or ~$2,900/month baseline suite module; full Commerce Experience packages average ~$180,000/year) | 30-day guided sandbox evaluation environment (limited to preconfigured test store data and engagement APIs) |
+| [Coveo](https://www.coveo.com/) | Enterprise search | Relevance + AI | Starts at ~$30,000/year (or ~$990/month for Salesforce Pro+ package; enterprise tiers from ~$1,500/month) | 14-day free trial (no credit card required; access to standard enterprise connectors and AI indexation models) |
+| [Searchanise](https://searchanise.com/) | Ecommerce search | Shopify/ecommerce search | Starts at $19/month (Search & Filter up to 1,000 products; or $8.89/month for Upsell & Marketing) | Free plan for up to 25 products / 500 sessions/month; 14-day free trial on all paid plans (full search & filter access) |
+| [Doofinder](https://www.doofinder.com/) | Ecommerce search | Search + merchandising | Starts at €49/month (~$53/month for Basic tier, up to 10,000 searches; or $29/month for 1k searches on Shopify) | Free plan up to 1,000 searches/month (on select platforms) / 30-day free trial on paid plans (no credit card required, 10k searches) |
+| [FactFinder](https://www.fact-finder.com/) | Ecommerce discovery | Search + recommendations | Starts at ~€849/month (or ~$900/month; enterprise packages scaling with search volume, typically €10,000–€30,000/year) | 30-day proof-of-concept / sandbox evaluation pilot upon request (limited to single-channel test catalog) |
+| [Findify](https://findify.io/) | Ecommerce search | AI search + merchandising | Starts at $499/month (Premium tier: up to 100k visits/month and 20,000 products; Professional at $799/month) | 14-day free trial on all plans (full access to AI search, autocomplete, and smart collections; no credit card required) |
+| [Sajari](https://www.sajari.com/) | Search | Site search + discovery | Starts at $79/month (legacy starter plan with 100k queries; now part of Algolia NeuralSearch from $0.50/1k requests) | 14-day free trial (up to 10,000 queries and 10,000 records; or Algolia Free tier: 10,000 requests/month) |
+| [Unbxd](https://unbxd.com/) | Ecommerce discovery | Search + recommendations | Starts at ~$1,000/month (or ~$12,000/year entry enterprise tier; scaling with catalog size and query volume) | 14-day free trial (or up to 30-day proof of concept evaluation on merchant catalog data; full search capabilities) |
+| [SearchNode](https://searchnode.com/) | Ecommerce search | AI search + personalization | Starts at ~$500/month (or ~$6,000/year baseline ecommerce search tier; acquired by Nosto) | 14-day guided proof-of-concept / sandbox evaluation (limited to merchant pilot catalog dataset) |
+| [Syte](https://www.syte.ai/) | Visual commerce | Visual search + discovery | Starts at ~$20,000/year (or ~$1,660/month; 5-figure annual contracts via AWS Marketplace / direct enterprise) | 14-day to 30-day proof-of-concept (PoC) sprint on customer product catalog (camera search and visual recommendation testing) |
 
 ---
 
